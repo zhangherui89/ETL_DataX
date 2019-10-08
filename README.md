@@ -1,0 +1,2 @@
+# ETL_DataX
+基于DataX的ETL工具，目前实现了Mysql和Sqlserver共四种组合的reader到writer过程

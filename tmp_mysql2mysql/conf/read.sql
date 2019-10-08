@@ -1,1 +1,1 @@
-select * from mysql2hive
+select * from mysql2mysql
